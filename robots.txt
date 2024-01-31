@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: http://www.fzsyun.com/sitemap.xml
+Sitemap: http://www.fzsyun.com/blog/sitemap.xml
