@@ -42,3 +42,5 @@ pause
 ::: warning
 
 需要修改其中对应JDK的目录！
+
+由于原有的jdk8安装的后在C:\ProgramData\Oracle\Java 下生成了配置文件，并且该配置文件大于环境变量的配置，所以需要删除。
